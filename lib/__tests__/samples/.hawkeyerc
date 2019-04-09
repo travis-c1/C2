@@ -1,0 +1,9 @@
+{
+  "modules": ["contents", "entropy", "files", "node-npmoutdated", "node-npmaudit"],
+  "failOn": "medium",
+  "sumo": "http://url.com",
+  "http": "http://url.com",
+  "json": "path",
+  "showCode": true,
+  "all": true
+}
